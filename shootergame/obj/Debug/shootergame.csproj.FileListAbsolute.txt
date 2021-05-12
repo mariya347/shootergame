@@ -1,0 +1,13 @@
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\bin\Debug\shootergame.exe.config
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\bin\Debug\shootergame.exe
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\bin\Debug\shootergame.pdb
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\obj\Debug\shootergame.csprojAssemblyReference.cache
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\obj\Debug\shootergame.Form1.resources
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\obj\Debug\shootergame.Properties.Resources.resources
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\obj\Debug\shootergame.csproj.GenerateResource.cache
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\obj\Debug\shootergame.csproj.CoreCompileInputs.cache
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\obj\Debug\shootergame.exe
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\obj\Debug\shootergame.pdb
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\obj\Debug\Interop.WMPLib.dll
+C:\Users\TECHgRO\source\repos\shootergame\shootergame\obj\Debug\shootergame.csproj.ResolveComReference.cache
